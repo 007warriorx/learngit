@@ -1,2 +1,5 @@
 I'm  a college student majored in cyber science and technology in SDU.
- 
+learning git is our CSAPP experierement homework.
+Git is a distributed version control system.
+Git is free software.
+
